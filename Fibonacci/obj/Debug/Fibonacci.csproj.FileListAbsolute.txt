@@ -1,0 +1,7 @@
+C:\Users\Motta\Documents\Csharp\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Motta\Documents\Csharp\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Motta\Documents\Csharp\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Motta\Documents\Csharp\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Motta\Documents\Csharp\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Motta\Documents\Csharp\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Motta\Documents\Csharp\Fibonacci\obj\Debug\Fibonacci.pdb
