@@ -1,0 +1,7 @@
+C:\Users\Motta\Documents\Csharp\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\Motta\Documents\Csharp\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\Motta\Documents\Csharp\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\Motta\Documents\Csharp\MediaAluno\obj\Debug\MediaAluno.csproj.AssemblyReference.cache
+C:\Users\Motta\Documents\Csharp\MediaAluno\obj\Debug\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Motta\Documents\Csharp\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\Motta\Documents\Csharp\MediaAluno\obj\Debug\MediaAluno.pdb
