@@ -1,0 +1,7 @@
+C:\Users\Motta\Documents\Csharp\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Users\Motta\Documents\Csharp\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\Motta\Documents\Csharp\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\Motta\Documents\Csharp\Palindromo\obj\Debug\Palindromo.csproj.AssemblyReference.cache
+C:\Users\Motta\Documents\Csharp\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Motta\Documents\Csharp\Palindromo\obj\Debug\Palindromo.exe
+C:\Users\Motta\Documents\Csharp\Palindromo\obj\Debug\Palindromo.pdb
