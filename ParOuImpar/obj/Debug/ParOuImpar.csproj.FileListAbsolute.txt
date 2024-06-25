@@ -1,0 +1,7 @@
+C:\Users\Motta\Documents\Csharp\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+C:\Users\Motta\Documents\Csharp\ParOuImpar\bin\Debug\ParOuImpar.exe
+C:\Users\Motta\Documents\Csharp\ParOuImpar\bin\Debug\ParOuImpar.pdb
+C:\Users\Motta\Documents\Csharp\ParOuImpar\obj\Debug\ParOuImpar.csproj.AssemblyReference.cache
+C:\Users\Motta\Documents\Csharp\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Motta\Documents\Csharp\ParOuImpar\obj\Debug\ParOuImpar.exe
+C:\Users\Motta\Documents\Csharp\ParOuImpar\obj\Debug\ParOuImpar.pdb
